@@ -1,0 +1,23 @@
+{  
+  "name": "FSEDTH11",
+  "version": "1.0.0",
+  "description": "A DHT11 library",
+  "keywords": "dht11, humidity, temperature, sensor",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/fullstackelectron/FSEDHT.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Fullstack Electron",
+      "email": "info@fullstackelectron.com",
+      "url": "https://fullstackelectron.com"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://fullstackelectron.com",
+  "frameworks": "*",
+  "platforms": "*"
+}
